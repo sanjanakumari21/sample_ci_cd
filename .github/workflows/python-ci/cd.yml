@@ -1,4 +1,4 @@
-name: Simple Python CI/CD
+name: CI/CD pipeline
 on:
   push:
     branches:
